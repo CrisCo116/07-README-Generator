@@ -42,7 +42,18 @@ function generateReadme(data) {
   ## Description
   ${data.description}
   
-  // Add more sections and data as needed
+  ## Motivation
+  ${data.motive}
+
+  ## Solutions
+  ${data.solutions}
+
+  ## What I learned
+  ${data.knowledge}
+
+  ## What makes it different
+  ${data.different}
+
   `;
   }
 

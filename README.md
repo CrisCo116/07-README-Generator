@@ -3,19 +3,19 @@
 ![License](https://img.shields.io/badge/License-aaaaaa-blue.svg)
 
 ## Description
-aaaaaa
+Here I have made a simple README.md generator, just answer the provided questions and this project will turn your answers into a README.md file.
 
 ## Motivation
-aaaaaa
+The motive was to create a project that will help me in the future and will also save me a lot of time. Also while using this in future projects I will have more consistant README.md files.
 
 ## Solutions
-aaaaa
+One problem I have had is inconsistant README.md files. some short and some longer. This generator will provent that in the future.
 
 ## What I Learned
-aaaaa
+In this project I have learned how to use JavaScript to generate a type of file I can use.
 
 ## What Makes It Different
-aaaaaaa
+This project stand out by not having t manually create a README.md file from scratch.
 
 ## License
 
